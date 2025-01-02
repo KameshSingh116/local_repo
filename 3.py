@@ -5,5 +5,5 @@ print(f*4)
 f.split(" ")
 
 #Radhakrishn are my everything
-print("Ommm parvati patey namah har har mahadev")
-print("Om parvati pateyyy namah har har mahadev")
+print("Ommm parvati patey namah har har mahadevji")
+print("Om parvati pateyyy namah har har mahadevji")
