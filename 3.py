@@ -6,3 +6,4 @@ f.split(" ")
 
 #Radhakrishn are my everything
 print("Ommm parvati patey namah har har mahadev")
+print("Om parvati pateyyy namah har har mahadev")
